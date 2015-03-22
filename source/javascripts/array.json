@@ -1,0 +1,17 @@
+var comments = [{
+    "comment" : "coucou le hibou"
+}
+{    "comment" : "marion le lion"
+}
+{    "comment" : "hubert le ver de terre"
+}
+{    "comment" : "simon le mouton"
+}
+{    "comment" : "arc en ciel"
+}
+{    "comment" : "petit poney dans la grande foret"
+}
+{    "comment" : "Jason"
+}
+{    "comment" : "hello ?"
+}];
